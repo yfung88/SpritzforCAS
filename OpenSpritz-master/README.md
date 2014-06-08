@@ -1,12 +1,10 @@
-![OpenSpritz](http://i.imgur.com/LOtmyf9.gif)
-
 # OpenSpritz
 
 OpenSpritz is an extremely crude implementation of [Spritz](http://www.spritzinc.com/) in JavaScript. It works as a bookmarklet to add Spritz-type speed reading to every page.
 
 ### Testimonials
 
-* "I'm not easily impressed, but this blew me away. You can have very good understanding of the text and still read
+* "I'm not easily impressed, but this blew me away. You can have very good understanding of the text add still read
 blazingly fast." - [norswap](https://news.ycombinator.com/item?id=7349966), HackerNews
 
 * "Super cool reading tool that helps you read at 800wpm. Kind of like watching television, only with words." - [@janeka](https://twitter.com/janeka/status/441375832309637121), Twitter
